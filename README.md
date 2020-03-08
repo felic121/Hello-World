@@ -1,2 +1,5 @@
 # Hello-World
-First Project on GitHub
+
+proyek pertama di github 
+
+Felic Senco Taslim
